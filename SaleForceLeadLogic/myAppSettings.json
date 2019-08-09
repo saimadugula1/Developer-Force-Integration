@@ -1,0 +1,20 @@
+﻿{
+    "SalesForceCredentials": {
+      "Prod": {
+        "SecurityToken": "",
+        "ConsumerKey": "",
+        "ConsumerSecret": "",
+        "Username": "",
+        "Password": "",
+        "IsSandboxUser": "false"
+      },
+      "SandBox": {
+        "SecurityToken": "",
+        "ConsumerKey": "",
+        "ConsumerSecret": "",
+        "Username": "",
+        "Password": "",
+        "IsSandboxUser": "true"
+      }
+    }
+}
